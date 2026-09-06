@@ -8,7 +8,6 @@
 
 <br/>
 
-![Education](https://img.shields.io/badge/Education-B.S.%20Computer%20Science-6d28d9?style=flat-square&labelColor=0d1117)
 ![Location](https://img.shields.io/badge/Location-Pakistan-6d28d9?style=flat-square&labelColor=0d1117&logo=googlemaps&logoColor=white)
 
 <br/>
