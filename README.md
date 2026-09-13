@@ -63,10 +63,10 @@ Open_To:
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| Applied AI Integration | ●●●●○ | Building AI-assisted product features and intelligent UI flows |
+| Applied AI Integrations | ●●●●○ | Building AI-assisted product features and intelligent UI flows |
 | LLM-Powered Applications | ●●●●○ | Integrating language model APIs into full-stack products |
 | Data-Driven Interfaces | ●●●○○ | Designing UIs that surface model output meaningfully |
-| Prompt & Workflow Design | ●●●●○ | Structuring reliable, repeatable AI product workflows |
+| Prompt & Workflows Design | ●●●●○ | Structuring reliable, repeatable AI product workflows |
 
 ---
 
